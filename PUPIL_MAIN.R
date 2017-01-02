@@ -1,4 +1,3 @@
-Added Text from patch 1
 ################################################################################
 
 # Main script to get to clean Pupil profiles overall, per valence category, subject, trials
